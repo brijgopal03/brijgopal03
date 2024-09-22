@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brijgopal Dalmia</h1>
-<h3 align="center">A passionate Frontend Developer 👨🏻‍💻 | Computer Science and Design 🖥️ | India</h3>
+<h3 align="center">A passionate Frontend Developer 👨🏻‍💻 | Computer Science and Design 🖥️ | India 🇮🇳</h3>
 <img align = "right" alt="coding" width = "400" src = "https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brijgopal03&label=Profile%20views&color=0e75b6&style=flat" alt="brijgopal03" /> </p>
 
