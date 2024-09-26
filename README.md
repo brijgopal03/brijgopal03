@@ -5,12 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/dalmia03" target="blank"><img src="https://img.shields.io/twitter/follow/dalmia03?logo=twitter&style=for-the-badge" alt="dalmia03" /></a> </p>
 
-- 💬 Ask me about **frontend development and competitive programming**
+- 🌱 I’m currently learning **backend technologies, focusing on server-side development, APIs, and databases like SQL and NoSQL. Excited to deepen my knowledge in frameworks like Node.js, Express, and database management with MongoDB and PostgreSQL.**
+
+- 📝 I regularly write articles on [https://x.com/dalmia03](https://x.com/dalmia03)
+
+- 💬 Ask me about **frontend development and competitive programming.**
 
 - 📫 How to reach me **brijgopaldalmia2003@gmail.com**
 
-
-- ⚡ Fun fact **I am tech enthusiast and loves anime**
+- ⚡ Fun fact **I am tech enthusiast and loves anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
